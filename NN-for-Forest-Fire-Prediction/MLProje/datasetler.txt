@@ -1,0 +1,15 @@
+Genel UCI -> https://www.kaggle.com/elikplim/forest-fires-data-set
+portekiz yangın alanı -> https://www.kaggle.com/sumitm004/forest-fire-area
+brezilya orman yangını, ama meteorolojik falan hiç bilgi yok sadece coğrafik ve zaman bilgisi var -> https://www.kaggle.com/gustavomodelli/forest-fires-in-brazil
+amerika, yine coğrafik bilgiler var ama yangın büyüklüğü de vardı. baya büyük, 1.88 milyon data -> https://www.kaggle.com/rtatman/188-million-us-wildfires
+bu da amerika, yine önceki gibi -> https://www.kaggle.com/captcalculator/wildfire-exploratory-analysis
+
+
+
+
+yangın alanı tahmin etmiş, dataset değil -> https://www.kaggle.com/sumitm004/forest-fire-area-predictions-and-eda
+yangın sebebi tahmin etmiş, dataset değil -> https://www.kaggle.com/edhirif/predict-the-causes-of-wildfires-using-python
+ml ile wildfire sebebi tahmini, çılgın bi şey baya uğraşmış -> https://www.kaggle.com/captcalculator/can-we-use-ml-to-predict-the-cause-of-a-wildfire
+brezilyada orman yangını sayısı üzerine araştırma yapmış. dataseti 98-17 arası, belki böyle bi tahmin de yapabiliriz -> https://www.kaggle.com/andradaolteanu/unbiased-look-on-brazil-wildfires
+
+
